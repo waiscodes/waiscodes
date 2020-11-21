@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/waisideas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="waisideas" height="30" width="40" /></a>
 <a href="https://medium.com/@waisideas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@waisideas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/wais ideas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wais ideas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
