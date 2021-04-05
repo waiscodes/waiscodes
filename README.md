@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/waisideas" target="blank"><img src="https://img.shields.io/twitter/follow/waisideas?logo=twitter&style=for-the-badge" alt="waisideas" /></a> </p>
 
-- 🌱 I’m currently learning the **MERN Stack.**
+- 🌱 I’m currently learning the **Solidity**
 <h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/waisideas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="waisideas" height="30" width="40" /></a>
