@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waiscodes&show_icons=true&locale=en&layout=compact" alt="waiscodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waiscodes&" alt="waiscodes" /></p>
